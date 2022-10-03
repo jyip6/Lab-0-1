@@ -10,4 +10,4 @@
 cout << "Hello world!" << endl;
 
 ```
-[Move to the top](https://jyip6.github.io/Lab-0-1/#cse-110)
+[Move to the top](https://jyip6.github.io/Lab-0-1/#cse 110)
