@@ -23,3 +23,7 @@ Github [Home-page](https://github.com/jyip6/Lab-0-1)
 - Java 
 - C++ 
 - Python
+
+- [x] tesk list 1
+- [ ] tesk list 2
+- [ ] tesk list 3
