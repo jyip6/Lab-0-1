@@ -20,9 +20,9 @@ Github [Home-page](https://github.com/jyip6/Lab-0-1)
 2. C++
 3. Python
 
--  Java 
--  C++ 
--  Python
+* Java 
+* C++ 
+* Python
 
 - [x] tesk list 1
 - [ ] tesk list 2
