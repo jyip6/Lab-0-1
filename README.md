@@ -1,2 +1,2 @@
-Jun Ye's User Page 
-My favorite language is Java 
+My site is published at
+https://jyip6.github.io/Lab-0-1/
