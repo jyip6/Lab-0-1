@@ -10,4 +10,4 @@
 cout << "Hello world!" << endl;
 
 ```
-This is my [Home-page](https://github.com/jyip6/Lab-0-1)
+Github [Home-page](https://github.com/jyip6/Lab-0-1)
