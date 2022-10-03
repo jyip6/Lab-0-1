@@ -11,3 +11,5 @@ cout << "Hello world!" << endl;
 
 ```
 Github [Home-page](https://github.com/jyip6/Lab-0-1)
+
+[Readme](README.md)
